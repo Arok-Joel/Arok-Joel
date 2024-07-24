@@ -1,6 +1,6 @@
 - Hi, I’m @Arok-Joel
 - I’m interested in Desktop Software Development
-- I’m currently learning 3rd Year CSE
+- I’m currently learning 4th Year CSE
 - You can reach me by arokjoel03@gmail.com
 
 <!---
